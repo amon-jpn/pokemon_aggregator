@@ -5,7 +5,7 @@ GAME Watchの「ゲームグッズ」カテゴリから、ポケモン以外の�
 ## RSSフィードURL
 
 ```
-https://[あなたのユーザー名].github.io/[リポジトリ名]/gamewatch_goods.xml
+https://amon-jpn.github.io/gamewatch-goods/gamewatch_goods.xml
 ```
 
 ## 特徴
