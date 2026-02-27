@@ -26,7 +26,7 @@ jobs:
           pip install feedparser feedgen
 
       - name: Run script
-        run: python your_script_name.py # ※ここをあなたのPythonファイル名に変えてください
+        run: python gamewatch_goods_filter.py
 
       - name: Commit and Push
         run: |
