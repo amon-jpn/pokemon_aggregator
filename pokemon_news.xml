@@ -13,7 +13,7 @@
       <link>https://github.com/amon-jpn/pokemon_aggregator</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Feb 2026 09:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 15:22:16 +0000</lastBuildDate>
     <item>
       <title>「ポケットモンスター 赤・緑」発売から30年。シリーズ30周年記念映像を公開。初期デザインのピカチュウが登場</title>
       <link>https://www.4gamer.net/games/779/G077900/20260105049/</link>
@@ -245,11 +245,6 @@
       <description>「PokémonPresents」で，ポケカこと「ポケモンカードゲーム」の30周年記念商品が発表された。配信では，懐かしいデザインや絵柄のカード，ミュウとミュウツーのビジュアルが披露されている。発売時期が2026年内ということ以外，詳細は不明だ。今後の発表を楽しみにまとう。</description>
     </item>
     <item>
-      <title>西武ライオンズ、「ポケモン」コラボで来場者にピカチュウTシャツをプレゼント！ GW福岡ソフトバンクホークス戦にて親子や児童対象のイベントも開催</title>
-      <link>https://game.watch.impress.co.jp/docs/news/2089148.html</link>
-      <description>西武ライオンズは、5月4日より6日に実施する福岡ソフトバンクホークス戦において、「ポケモンベースボールフェスタ 2026」を開催する。</description>
-    </item>
-    <item>
       <title>「Yahoo! JAPAN」アプリに“ポケモンタブ”が出現！ 30周年コラボが開催</title>
       <link>https://game.watch.impress.co.jp/docs/news/2089183.html</link>
       <description>LINEヤフーは2月27日、ポケモンと提携し「ポケットモンスター」シリーズの30周年を記念したコラボレーション企画を開始した。</description>
@@ -325,12 +320,6 @@
       <description>ポケモンは、Nintendo Switch 2用RPG「ポケットモンスター ウインド・ウェーブ」の公式サイトを公開した。</description>
     </item>
     <item>
-      <title>シリーズ完全新作『ポケットモンスター ウインド・ウェーブ』発表！</title>
-      <link>https://www.ndw.jp/pokemon-presents-260227/</link>
-      <description>2026年2月27日「ポケモンデー」に配信された「Pokémon Presents」。最後の映像では、Nintendo Switch 2 ソフト『ポケ...</description>
-      <pubDate>Fri, 27 Feb 2026 14:33:50 +0000</pubDate>
-    </item>
-    <item>
       <title>『ポケモン 赤・緑』の曲を再生できるゲームボーイ型のプレイヤー「ポケモン赤・緑 GAME MUSIC COLLECTION with GAME BOY型さいせいマシン」発売</title>
       <link>https://www.ndw.jp/pokemon-news-260227-07/</link>
       <description>2月27日に配信された「Pokémon Presents 2026.2.27」にて、「ポケモン赤・緑 GAME MUSIC COLLECTION wi...</description>
@@ -359,6 +348,18 @@
       <link>https://www.ndw.jp/pokemonza-game-260228/</link>
       <description>株式会社ポケモンは、Nintendo Switch/ Nintendo Switch 2 ソフト『Pokémon LEGENDS Z-A』とNinte...</description>
       <pubDate>Fri, 27 Feb 2026 17:40:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>『ポケモン 赤・緑』に登場する“マリオがバケツをかぶって歩いて行くゲーム”とは？【小ネタ】</title>
+      <link>https://www.ndw.jp/pokemon-koneta-260228/</link>
+      <description>『ポケットモンスター 赤・緑』に関する小ネタを紹介します。 マリオが歩いて行くゲーム…？ ヤマブキシティにある、モノマネむすめの部屋に置かれたゲーム機...</description>
+      <pubDate>Sat, 28 Feb 2026 12:57:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>編集後記26年2月｜VBやポケモンで盛り上がり！ニンテンドーミュージアムにも大・訪・問</title>
+      <link>https://www.ndw.jp/editorialnote-2602/</link>
+      <description>ポケモン30周年でとにかくポケモンニュースが盛りだくさん、完全新作も発表に！そんな月末でしたが、中旬にはみんなで京都にも行ってきましたよ！ 「編集後記...</description>
+      <pubDate>Sat, 28 Feb 2026 13:11:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
