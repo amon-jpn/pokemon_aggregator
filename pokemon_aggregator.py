@@ -81,7 +81,14 @@ def main():
         if item['date']:
             fe.pubDate(item['date'])
 
-    fg.rss_file(OUTPUT_FILE)
+    rss_content = fg.rss_str(pretty=True).decode('utf-8')
+    # スタイルシートへのリンクを無理やり挿入する
+    style_line = '<?xml-stylesheet type="text/xsl" href="style.xsl"?>'
+    final_content = rss_content.replace('<?xml version=\'1.0\' encoding=\'UTF-8\'?>', 
+                                       f'<?xml version="1.0" encoding="UTF-8"?>\n{style_line}')
+    
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        f.write(final_content)
     print(f"✅ 完了: {len(unique_entries)}件の記事を抽出しました。")
 
 if __name__ == "__main__":
