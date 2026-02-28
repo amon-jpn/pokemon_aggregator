@@ -62,8 +62,8 @@ def main():
 
     # 4. 新しいRSSを生成
     fg = FeedGenerator()
-    fg.title("ポケモン最新ニュースまとめ")
-    fg.description("複数サイトからポケモン関連の記事を重複なく集約")
+    fg.title("ポケモン最新情報まとめ")
+    fg.description("複数のゲームニュースサイトから「ポケモン」に関する最新情報だけを自動で収集し、重複を除去して配信するRSSフィードです")
     fg.link(href="https://github.com/", rel="alternate")
     fg.language("ja")
     fg.lastBuildDate(datetime.now(timezone.utc))
