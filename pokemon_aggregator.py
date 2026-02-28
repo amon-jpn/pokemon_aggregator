@@ -62,9 +62,11 @@ def main():
 
     # 4. 新しいRSSを生成
     fg = FeedGenerator()
+    # IDを自分のリポジトリURLにする
+    fg.id("https://github.com/amon-jpn/pokemon_aggregator")
     fg.title("ポケモン最新情報まとめ")
     fg.description("複数のゲームニュースサイトから「ポケモン」に関する最新情報だけを自動で収集し、重複を除去して配信するRSSフィードです")
-    fg.link(href="https://github.com/", rel="alternate")
+    fg.link(href="https://github.com/amon-jpn/pokemon_aggregator", rel="alternate")
     fg.language("ja")
     fg.lastBuildDate(datetime.now(timezone.utc))
 
