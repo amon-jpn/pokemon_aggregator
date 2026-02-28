@@ -82,6 +82,7 @@ def main():
             fe.pubDate(item['date'])
 
     rss_content = fg.rss_str(pretty=True).decode('utf-8')
+    print(rss_content[:200])  # 先頭を確認
     # スタイルシートへのリンクを無理やり挿入する
     style_line = '<?xml-stylesheet type="text/xsl" href="style.xsl"?>'
     final_content = rss_content.replace('<?xml version=\'1.0\' encoding=\'UTF-8\'?>', 
