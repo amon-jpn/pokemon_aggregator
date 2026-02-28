@@ -68,6 +68,9 @@ def main():
     fg.language("ja")
     fg.lastBuildDate(datetime.now(timezone.utc))
 
+    icon_url = "https://raw.githubusercontent.com/amon-jpn/pokemon_aggregator/main/IMG_5783%20(1).jpg"
+    fg.image(url=icon_url, title="ポケモン最新情報まとめ", link="https://amon-jpn.github.io/pokemon_aggregator/pokemon_news.xml")
+
     for item in unique_entries:
         fe = fg.add_entry()
         fe.title(item['title'])
