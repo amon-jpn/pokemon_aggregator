@@ -13,7 +13,7 @@
       <link>https://github.com/amon-jpn/pokemon_aggregator</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Mar 2026 09:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 15:23:57 +0000</lastBuildDate>
     <item>
       <title>「ポケットモンスター 赤・緑」発売から30年。シリーズ30周年記念映像を公開。初期デザインのピカチュウが登場</title>
       <link>https://www.4gamer.net/games/779/G077900/20260105049/</link>
@@ -245,11 +245,6 @@
       <description>「PokémonPresents」で，ポケカこと「ポケモンカードゲーム」の30周年記念商品が発表された。配信では，懐かしいデザインや絵柄のカード，ミュウとミュウツーのビジュアルが披露されている。発売時期が2026年内ということ以外，詳細は不明だ。今後の発表を楽しみにまとう。</description>
     </item>
     <item>
-      <title>「Yahoo! JAPAN」アプリに“ポケモンタブ”が出現！ 30周年コラボが開催</title>
-      <link>https://game.watch.impress.co.jp/docs/news/2089183.html</link>
-      <description>LINEヤフーは2月27日、ポケモンと提携し「ポケットモンスター」シリーズの30周年を記念したコラボレーション企画を開始した。</description>
-    </item>
-    <item>
       <title>「ポケモンプレゼンツ 2026.2.27」発表まとめ【ポケモン30周年】</title>
       <link>https://game.watch.impress.co.jp/docs/news/2089320.html</link>
       <description>ポケモンは、配信番組「Pokémon Presents 2026.2.27」を2月27日23時より配信した。</description>
@@ -320,12 +315,6 @@
       <description>ポケモンは、Nintendo Switch 2用RPG「ポケットモンスター ウインド・ウェーブ」の公式サイトを公開した。</description>
     </item>
     <item>
-      <title>ガブリアスが「メガガブリアスＺ」にメガシンカ。ふしぎなおくりものを受け取って出会える！『Pokémon LEGENDS Z-A M次元ラッシュ』</title>
-      <link>https://www.ndw.jp/pokemonza-game-260228/</link>
-      <description>株式会社ポケモンは、Nintendo Switch/ Nintendo Switch 2 ソフト『Pokémon LEGENDS Z-A』とNinte...</description>
-      <pubDate>Fri, 27 Feb 2026 17:40:26 +0000</pubDate>
-    </item>
-    <item>
       <title>『ポケモン 赤・緑』に登場する“マリオがバケツをかぶって歩いて行くゲーム”とは？【小ネタ】</title>
       <link>https://www.ndw.jp/pokemon-koneta-260228/</link>
       <description>『ポケットモンスター 赤・緑』に関する小ネタを紹介します。 マリオが歩いて行くゲーム…？ ヤマブキシティにある、モノマネむすめの部屋に置かれたゲーム機...</description>
@@ -342,6 +331,12 @@
       <link>https://www.ndw.jp/nintendo-software-march/</link>
       <description>過去3月に任天堂（ポケモンを含む）から発売・販売されたゲームタイトルをまとめました。「きょうは●●が発売されて◯年！」という周年を確認したり、「こんな...</description>
       <pubDate>Sat, 28 Feb 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>マリオ×ポケモンのドットをデザインしたコラボグッズ【kikaiのマリオグッズミュージアム-07】</title>
+      <link>https://www.ndw.jp/kikai-mariogoods-07/</link>
+      <description>2019年に渋谷PARCOに「Nintendo TOKYO」と「ポケモンセンターシブヤ」が同時オープンしたことを記念して発売された、マリオとポケモンのコラボ商品</description>
+      <pubDate>Sun, 01 Mar 2026 12:43:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
