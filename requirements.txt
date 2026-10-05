@@ -3,7 +3,7 @@
 feedparser==6.0.14
 feedgen==1.0.0
 anthropic==0.120.2
-markdown==3.10.3
+markdown==3.11
 requests==2.34.2
 googlenewsdecoder==0.1.7
 # googlenewsdecoder が内部で使う部品。1.0 で旧機能が削除され読み込めなくなるため固定。
