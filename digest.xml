@@ -7,86 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Oct 2026 15:19:45 +0000</lastBuildDate>
-    <item>
-      <title>週刊ポケカ高騰ダイジェスト（2026-08-09）</title>
-      <link>https://github.com/amon-jpn/pokemon_aggregator/blob/main/digests/2026-08-09.md</link>
-      <description>&lt;h1&gt;週刊ポケカ高騰ダイジェスト（2026-08-02〜2026-08-09）&lt;/h1&gt;
-&lt;h2&gt;今週のまとめ&lt;/h2&gt;
-&lt;p&gt;ポケモンカード30周年記念商品の抽選販売が本格化し、ポケセンオンライン・Amazon・ホビーステーション・エディオンなど複数の販売チャネルで企画が進行中です。8月10日からポケセンオンライン抽選が開始される予定で、マイナンバーカードによる本人認証が初導入されるなど、転売対策を強化した販売体制が構築されています。一方、新弾「ストームエメラルダ」の関連カードも相場追跡の対象となり、海外では「Meowth, Alolan Meowth, and Their Illustration Rares from "30th Celebration" Revealed!」など30周年関連の新情報が続々と公開されています。&lt;/p&gt;
-&lt;h2&gt;相場・高騰の動き&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;「【買取情報】ポケモンカードゲーム 買取情報 カードラボ津田沼店 0806」として、カードラボ津田沼店による買取相場情報がリアルタイムで更新されている&lt;/li&gt;
-&lt;li&gt;「ポケモンカードゲーム 構築スタンダードデッキ『パルキアLV.X :1ED』通販・買取・相場｜スニダン」で旧弾カードの相場追跡が可能&lt;/li&gt;
-&lt;li&gt;「【ポケカ】メガレックウザex SARの買取・相場価格と値段推移｜ストームエメラルダ」によるストームエメラルダ収録高額カードの相場分析&lt;/li&gt;
-&lt;li&gt;「Most Valuable "Storm Emeralda" Cards: Mega Rayquaza ex Dominates, Zinnia Falls Short」として、海外市場でのストームエメラルダカードの評価&lt;/li&gt;
-&lt;li&gt;「【ポケカ】中国語版・高額カードランキングTOP20！日本未収録ARや限定プロモの相場を徹底解説」で、日本国内では入手困難なカードの相場情報を掲載&lt;/li&gt;
-&lt;li&gt;トレトク社が「申込時点で売却価格がわかる新サービス『指定買取』を提供開始｜遊戯王OCG・ポケモンカード対象」として、売却前の価格確認が可能に&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;新弾・抽選情報&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;「『ポケカ』30周年記念拡張パック『30th CELEBRATION』がホビーステーションで抽選販売！応募期間は8月6日23時59分まで」&lt;/li&gt;
-&lt;li&gt;「【ポケカ30周年】'30th CELEBRATION'4商品のポケセンオンライン抽選受付が8月10日開始。本人認証済み枠が有利」&lt;/li&gt;
-&lt;li&gt;「大注目の『ポケカ』30周年『エーフィ・ブラッキーセット』がAmazonで抽選販売！2匹のデッキや特別カードを収録」&lt;/li&gt;
-&lt;li&gt;「激レアな『ポケカ』30周年記念商品がAmazonで抽選販売中！地方ごとに収録された'御三家'の特別カード」&lt;/li&gt;
-&lt;li&gt;「エディオンで『ポケカ』抽選販売！『ストームエメラルダ』『スタートデッキ100』など人気商品が対象」&lt;/li&gt;
-&lt;li&gt;「しまむらで『ポケカ』が抽選販売！拡張パック『ストームエメラルダ』『アビスアイ』各1BOXをラインナップ」&lt;/li&gt;
-&lt;li&gt;「【ポケカ】ゲオで抽選販売中。『ストームエメラルダ』『ブラックボルト』『ホワイトフレア』各5パックセットが対象、応募は8月6日まで」&lt;/li&gt;
-&lt;li&gt;「【ポケカ招待販売まとめ】Amazonにて『ポケモンカードゲーム』招待販売が一挙実施中。30周年記念アイテムほか多数！」&lt;/li&gt;
-&lt;li&gt;「『ポケカ』マイナンバーカード認証を公式プレイヤーズクラブに導入―商品の優先的な抽選・販売、公式大会への参加申し込みに活用」&lt;/li&gt;
-&lt;li&gt;「マクドナルド、ハッピーセット『ポケモン』7日発売 ポケカ配布せず 昨年は転売相次ぐ」&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;鑑定・PSAニュース&lt;/h2&gt;
-&lt;p&gt;該当記事はありません。&lt;/p&gt;
-&lt;h2&gt;海外の動き&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;「Meowth, Alolan Meowth, and Their Illustration Rares from '30th Celebration' Revealed!」として、ポケモンカード30周年企画でニャース・アローラニャース関連のイラストレアカードが公開された&lt;/li&gt;
-&lt;li&gt;「2027 Exclusive Pokemon Regionals Merchandise Previewed!」により、2027年の公式地域大会向けグッズがプレビュー公開されている&lt;/li&gt;
-&lt;li&gt;「Celebratory Fanfare Promo Revealed for 2026 Season!」で2026シーズン向けの記念プロモカードが発表された&lt;/li&gt;
-&lt;li&gt;「New Pokemon TCG 'Deck Crafter's Collection' to Release in October!」として、10月発売予定の新商品が告知されている&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;今週の記事一覧&lt;/h2&gt;
-&lt;h3&gt;海外ニュース&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/08/meowth-and-its-illustration-rare-from-30th-celebration-revealed"&gt;「30th Celebration」からニャース、アローラニャース、それらのイラストレアが公開！&lt;/a&gt;（PokeBeach）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/08/2027-exclusive-pokemon-regionals-merchandise-previewed"&gt;2027年限定ポケモンリージョナルズ商品がプレビュー公開&lt;/a&gt;（PokeBeach）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/08/celebratory-fanfare-promo-revealed-for-2026-season"&gt;2026シーズン向けお祝いファンファーレプロモが公開&lt;/a&gt;（PokeBeach）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/08/new-pokemon-tcg-deck-crafters-collection-to-release-in-october"&gt;ポケモンカードゲーム新商品「デッククラフターズコレクション」10月発売予定&lt;/a&gt;（PokeBeach）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/08/most-valuable-storm-emeralda-cards-mega-rayquaza-ex-dominates-zinnia-falls-short"&gt;最も価値の高い「ストームエメラルダ」カード：メガレックウザexが優位、ジンニアは期待に届かず&lt;/a&gt;（PokeBeach）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/08/worlds-metagame-forecast"&gt;ワールドチャンピオンシップのメタゲーム予測&lt;/a&gt;（PokeBeach）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.pokebeach.com/?p=323590"&gt;チャンピオンを目指して！ジムリーダーチャレンジ初心者ガイド&lt;/a&gt;（PokeBeach）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;新弾・予約&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://article.auone.jp/4f2232ab-9cd1-4df6-ae7b-19521c6724cb"&gt;エディオンで「ポケカ」抽選販売！「ストームエメラルダ」「スタートデッキ100」など人気商品が対象&lt;/a&gt;（au Webポータル）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://snkrdunk.com/articles/32964/"&gt;【ポケカ】中国語版・高額カードランキングTOP20！日本未収録ARや限定プロモの相場を徹底解説&lt;/a&gt;（SNKRDUNK）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.inside-games.jp/article/2026/08/06/185840.html"&gt;大注目の『ポケカ』30周年「エーフィ・ブラッキーセット」がAmazonで抽選販売！2匹のデッキや特別カードを収録&lt;/a&gt;（インサイド）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://s.inside-games.jp/article/2026/08/06/185820.html"&gt;激レアな『ポケカ』30周年記念商品がAmazonで抽選販売中！地方ごとに収録された“御三家”の特別カード&lt;/a&gt;（インサイド）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://article.auone.jp/article/2310b738-83dc-45ee-bea1-24b5aa2ceec1"&gt;まだ間に合う！『ポケカ』30周年記念拡張パック「30th CELEBRATION」抽選販売がホビーステーションで実施中、8月6日まで&lt;/a&gt;（au Webポータル）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://article.auone.jp/b976a870-db69-4a7d-9e1a-4e1dd73303ef"&gt;しまむらで『ポケカ』が抽選販売！拡張パック「ストームエメラルダ」「アビスアイ」各1BOXをラインナップ&lt;/a&gt;（au Webポータル）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://hashout.jp/game/5176/"&gt;ポケカ30周年商品とストームエメラルダの抽選・再販情報が続々更新&lt;/a&gt;（shiritomo）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news.yahoo.co.jp/articles/7e0dce7d55b406cf5b1a3ec595234d9cc36bf75a"&gt;『ポケカ』30周年記念拡張パック「30th CELEBRATION」がホビーステーションで抽選販売！応募期間は8月6日23時59分まで&lt;/a&gt;（Yahoo!ニュース）&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://news.dengeki.com/article/202608/83462"&gt;【ポケカ30周年】“30th CELEBRATION”4商品のポケセンオンライン抽選受付が8月10日開始。本人認証済み枠が有利【ポケモンカードゲーム】&lt;/a&gt;（news.dengeki.com）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://dengekionline.com/article/202608/83452"&gt;【ポケカ招待販売まとめ】Amazonにて『ポケモンカードゲーム』招待販売が一挙実施中。30周年記念アイテムほか多数！&lt;/a&gt;（dengekionline.com）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.4gamer.net/games/256/G025620/20260804019/"&gt;「ポケモンカードゲーム」30周年記念商品の抽選応募受付を8月10日より順次開始。本人認証を完了させると当選しやすい&lt;/a&gt;（4Gamer.net）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://s.inside-games.jp/article/2026/08/04/185713.html"&gt;『ポケカ』マイナンバーカード認証を公式プレイヤーズクラブに導入―商品の優先的な抽選・販売、公式大会への参加申し込みに活用&lt;/a&gt;（インサイド）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.hbst.net/?p=410617"&gt;【2026.08.04】「当選者代金前払い必要 ポケモンカードゲームMEGA 拡張パック 30th CELEBRATION」&lt;/a&gt;（ホビーステーション）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.famitsu.com/article/202608/83358"&gt;【ポケカ】ゲオで抽選販売中。『ストームエメラルダ』『ブラックボルト』『ホワイトフレア』各5パックセットが対象、応募は8月6日まで&lt;/a&gt;（ファミ通）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://hypebeast.com/jp/2026/8/pokemon-trading-card-game-introduces-my-number-card-verification-for-30th-anniversary-product-lottery"&gt;『ポケモンカードゲーム』30周年記念商品の抽選販売でマイナンバーカードによる本人認証を初導入&lt;/a&gt;（Hypebeast）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.inside-games.jp/article/2026/08/03/185654.html"&gt;「ポケモンカードゲーム30周年記念商品」ポケモンセンターでの抽選期間と応募方法が公開！&lt;/a&gt;（インサイド）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://japan.cnet.com/article/35251223/"&gt;マクドナルド、ハッピーセット「ポケモン」7日発売 ポケカ配布せず 昨年は転売相次ぐ&lt;/a&gt;（CNET Japan）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://news.yahoo.co.jp/articles/c16b50c2b10bdfa1e1e29968c03cdc7a1374eee6"&gt;ポケモンカード『マイナンバーカード』使用の本人認証システム導入開始 商品販売の優先抽選・大会参加などで活用（オリコン）&lt;/a&gt;（Yahoo!ニュース）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.sponichi.co.jp/entertainment/news/2026/08/03/kiji/20260803s00041000177000c.html"&gt;ポケカ マイナンバーカードを用いた本人認証システム開始 販売抽選などに活用 転売対策に光明&lt;/a&gt;（スポニチ Sponichi Annex）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;相場・高騰&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.c-labo.jp/blog/581202/"&gt;【買取情報】ポケモンカードゲーム 買取情報 カードラボ津田沼店 0806 / 津田沼店の店舗ブログ&lt;/a&gt;（c-labo.jp）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://snkrdunk.com/apparels/870989"&gt;ポケモンカードゲーム 構築スタンダードデッキ「パルキアLV.X :1ED」通販・買取・相場｜スニダン&lt;/a&gt;（SNKRDUNK）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://snkrdunk.com/articles/32648/"&gt;【ポケカ】メガレックウザex SARの買取・相場価格と値段推移｜ストームエメラルダ&lt;/a&gt;（SNKRDUNK）&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.oricon.co.jp/pressrelease/2928402/"&gt;トレカ専門店「トレトク」、申込時点で売却価格がわかる新サービス「指定買取」を提供開始｜遊戯王OCG・ポケモンカード対象&lt;/a&gt;（oricon.co.jp）&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 21:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Nov 2026 17:26:51 +0000</lastBuildDate>
     <item>
       <title>週刊ポケカ高騰ダイジェスト（2026-08-16）</title>
       <link>https://github.com/amon-jpn/pokemon_aggregator/blob/main/digests/2026-08-16.md</link>
@@ -1137,6 +1058,92 @@
 &lt;li&gt;&lt;a href="https://news.livedoor.com/topics/detail/32603294/"&gt;フリマ各社がポケモンカードなど人気商品の発売後の出品を一定期間禁止 (2026年10月19日掲載)&lt;/a&gt;（ライブドアニュース）&lt;/li&gt;
 &lt;/ul&gt;</description>
       <pubDate>Mon, 26 Oct 2026 21:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>週刊ポケカ高騰ダイジェスト（2026-11-02）</title>
+      <link>https://github.com/amon-jpn/pokemon_aggregator/blob/main/digests/2026-11-02.md</link>
+      <description>&lt;h1&gt;週刊ポケカ高騰ダイジェスト（2026-10-26〜2026-11-02）&lt;/h1&gt;
+&lt;h2&gt;今週のまとめ&lt;/h2&gt;
+&lt;p&gt;10月26日から11月2日にかけて、ポケモンカードの新弾情報と海外展開が相次いで報じられた週となりました。国内では「ハドウシーカー」の11月27日発売決定やAmazonでの抽選販売開始、スターターセット関連の予約情報が注目されています。海外ではPSAのバリュー階級受付再開や2027年の新弾候補商標登録など、鑑定・投資面でも重要なニュースが報じられました。&lt;/p&gt;
+&lt;h2&gt;相場・高騰の動き&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;【ポケカ】ホワイトフレアの当たりランキング/買取相場/封入率/予約抽選/値段まとめ — 新弾の当たりカード、買取相場、封入率を一括確認できる相場情報&lt;/li&gt;
+&lt;li&gt;【ポケカ】ロストアビスの当たりランキング/買取相場情報/封入率/予約再販抽選/値段まとめ — 既発売弾の相場動向と投資判断の参考資料&lt;/li&gt;
+&lt;li&gt;【ポケカ】ロケット団の栄光の当たりランキング/買取相場/封入率/予約抽選/値段まとめ — 新弾購入時の当たり期待値と買取相場を網羅&lt;/li&gt;
+&lt;li&gt;【ポケカ】フクオカのピカチュウ プロモの買取・相場価格と値段推移｜スペシャルBOX「フクオカ」 — プロモカードの値動き追跡に有用&lt;/li&gt;
+&lt;li&gt;トレカプロ、古物商許可を取得。ポケカの買取と鑑定を自社でも手がける体制へ、海外展開も視野に — 買取・鑑定業者の体制強化により市場の構造が変化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;鑑定・PSAニュース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;After Almost Six Months, PSA Is Reopening Its Value Tier — PSAが約6ヶ月ぶりにバリュー階級（廉価鑑定）の受付を再開。コスト重視のコレクターにとって重要な動き&lt;/li&gt;
+&lt;li&gt;カードコレクト秋葉原 -CHIKA-@ポケモンカード PSA 買取 旧裏 Pokemon Card — 秋葉原の店舗によるPSA鑑定・買取サービス情報&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;新弾・抽選情報&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 — 新弾の予約・抽選ルートを網羅&lt;/li&gt;
+&lt;li&gt;【ポケカ】スターターセットex「イーブイex」「ゾロア&amp;amp;ゾロアークex」「ニャオハ&amp;amp;マスカーニャex」の予約・抽選情報まとめ【7/23更新】 — 初心者向けセットの入手情報&lt;/li&gt;
+&lt;li&gt;『ポケカ』新拡張パック「ハドウシーカー」がAmazonで抽選販売！1BOX（30パック入り）が対象 — Amazon限定の抽選販売開始&lt;/li&gt;
+&lt;li&gt;ポケカ新弾ハドウシーカー、11月27日発売 1パック200円、Amazonの招待リクエストとメガルカリオZexなど公開カードを整理 — 11月27日発売決定、1パック200円、メガルカリオZex等の収録が確定&lt;/li&gt;
+&lt;li&gt;【ポケカ】30th CELEBRATION グミ 商品＆カードリスト紹介【30周年】 — ポケモンカード30周年記念グミの商品情報と収録カード一覧&lt;/li&gt;
+&lt;li&gt;Pokémon TCG x Santa Cruz ポケモン30周年記念コラボアイテムが国内順次発売中 【抽選情報更新中】 — 記念コラボアイテムの抽選情報が随時更新中&lt;/li&gt;
+&lt;li&gt;【ポケカ】シティリーグ2027 シーズン2 エントリー開始｜事前抽選は11月9日12時まで・日程と大会形式まとめ — 大会参加希望者向けの重要な締切情報（事前抽選は11月9日12時）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;海外の動き&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Blastoise and Other Cards from "Aura Seeker" Revealed, New Alternate Art Mega Lucario Z ex! — 海外新弾「Aura Seeker」からBlastoiseやMega Lucario Z exのアルタナートアートが公開&lt;/li&gt;
+&lt;li&gt;"Pokemon TCG Valentine's Box" Revealed for January! — バレンタイン向けボックスが1月にリリース予定&lt;/li&gt;
+&lt;li&gt;"Mega Rayquaza ex Premium Tournament Collection" Revealed, Features Dragon Shield Products Instead of Ultra PRO! — メガレックウザex プレミアムコレクションがDragon Shield製スリーブ・デッキボックス採用&lt;/li&gt;
+&lt;li&gt;TPCi Accidentally Reveals McDonald's 2027 Set a Year Early, Revealing Future Cards — TPCiが2027年マクドナルドセットを誤公開&lt;/li&gt;
+&lt;li&gt;Pokémon (McDonald's) Happy Meal 2026/2027 with 15 Cards Officially Revealed — 2026-2027年マクドナルドハッピーミール企画で15枚のカードが公開&lt;/li&gt;
+&lt;li&gt;Nintendo, Creatures, and Game Freak Trademark 'The Pulse of Magma', 'The Impact of Lightning', 'The Ripples of the Aurora' &amp;amp; Battle Start Deck, Hints at Possible New 2027 TCG Sets — 2027年の新弾候補と思われる3つの商標「The Pulse of Magma」「The Impact of Lightning」「The Ripples of the Aurora」が登録&lt;/li&gt;
+&lt;li&gt;"Magma Heartbeat," "Lightning Impact," "Aurora Ripples" Trademarks Filed for the Pokemon TCG! — 上記と同様の商標登録情報&lt;/li&gt;
+&lt;li&gt;McDonald's Pokemon TCG Promotion Starts November 10th, Features Mini Happy Meal Box Toys and 15 Cards! — マクドナルドキャンペーンは11月10日スタート、ハッピーセット連動&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;今週の記事一覧&lt;/h2&gt;
+&lt;h3&gt;新弾・予約&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://snkrdunk.com/articles/32581/"&gt;【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク&lt;/a&gt;（SNKRDUNK）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.co/GPusshFXpf"&gt;【ポケカ】シティリーグ2027 シーズン2 エントリー開始｜事前抽選は11月9日12時まで・日程と大会形式まとめ&lt;/a&gt;（Howl.Link）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://snkrdunk.com/articles/32658/"&gt;【ポケカ】スターターセットex「イーブイex」「ゾロア&amp;amp;ゾロアークex」「ニャオハ&amp;amp;マスカーニャex」の予約・抽選情報まとめ【7/23更新】&lt;/a&gt;（SNKRDUNK）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.inside-games.jp/article/2026/10/29/190029.html"&gt;『ポケカ』新拡張パック「ハドウシーカー」がAmazonで抽選販売！1BOX（30パック入り）が対象&lt;/a&gt;（インサイド）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pokeca-pocket.dbfw-days.com/30th-celebration-gumi/"&gt;【ポケカ】30th CELEBRATION グミ 商品＆カードリスト紹介【30周年】&lt;/a&gt;（ポケカポケット開封日記）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://uptodate.tokyo/pokemon-x-santa-cruz-2026/"&gt;Pokémon TCG x Santa Cruz ポケモン30周年記念コラボアイテムが国内順次発売中 【抽選情報更新中】&lt;/a&gt;（UP TO DATE）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mediadogs.jp/2026/10/27/pokeca-hadou-seeker-release/"&gt;ポケカ新弾ハドウシーカー、11月27日発売 1パック200円、Amazonの招待リクエストとメガルカリオZexなど公開カードを整理&lt;/a&gt;（https://mediadogs.jp/）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;相場・高騰&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://snkrdunk.com/articles/28052/"&gt;【ポケカ】ホワイトフレアの当たりランキング/買取相場/封入率/予約抽選/値段まとめ&lt;/a&gt;（SNKRDUNK）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://snkrdunk.com/articles/13404/"&gt;【ポケカ】ロストアビスの当たりランキング/買取相場情報/封入率/予約再販抽選/値段まとめ&lt;/a&gt;（SNKRDUNK）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mainichikirei.jp/prtimes/article/20261029prt00m100000645a.html"&gt;トレカプロ、古物商許可を取得。ポケカの買取と鑑定を自社でも手がける体制へ、海外展開も視野に&lt;/a&gt;（毎日キレイ）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://snkrdunk.com/articles/29067/"&gt;【ポケカ】フクオカのピカチュウ プロモの買取・相場価格と値段推移｜スペシャルBOX「フクオカ」&lt;/a&gt;（SNKRDUNK）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://snkrdunk.com/articles/27332/"&gt;【ポケカ】ロケット団の栄光の当たりランキング/買取相場/封入率/予約抽選/値段まとめ&lt;/a&gt;（SNKRDUNK）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;海外ニュース&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/10/blastoise-and-other-cards-from-aura-seeker-revealed-new-alternate-art-mega-lucario-z-ex"&gt;「オーラシーカー」からフシギバナなどのカードが公開、新しいアルテミット仕様のメガリザードンZ exが登場！&lt;/a&gt;（PokeBeach）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/10/pokemon-tcg-valentines-box-revealed-for-january"&gt;ポケモンカード「バレンタインボックス」1月発売予定&lt;/a&gt;（PokeBeach）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/10/mega-rayquaza-ex-premium-tournament-collection-revealed-features-dragon-shield-products-instead-of-ultra-pro"&gt;「メガレックウザex プレミアムトーナメントコレクション」が明らかに、ドラゴンシールド製品を採用しウルトラプロに代わる&lt;/a&gt;（PokeBeach）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/10/tpci-accidentally-reveals-mcdonalds-2027-set-a-year-early-revealing-future-cards"&gt;TPCi、2027年マクドナルドセットを誤って1年前に公開、将来のカードが明らかに&lt;/a&gt;（PokeBeach）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pokeguardian.com/3429516_pokemon-mcdonald-s-happy-meal-2026-2027-with-15-cards-officially-revealed"&gt;ポケモン（マクドナルド）ハッピーミール2026/2027年が15枚カード付きで正式公開&lt;/a&gt;（PokeGuardian）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pokeguardian.com/3429509_pokemon-tcg-valentine-s-box-revealed"&gt;ポケモンカード：バレンタインボックスが明らかに&lt;/a&gt;（PokeGuardian）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pokeguardian.com/3429495_mega-rayquaza-ex-premium-tournament-collection-revealed-deck-box-and-sleeves-made-by-dragon-shield"&gt;メガレックウザexプレミアムトーナメントコレクション公開、デッキボックスとスリーブはドラゴンシールド製&lt;/a&gt;（PokeGuardian）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pokeguardian.com/3428419_nintendo-creatures-and-game-freak-trademark-the-pulse-of-magma-the-impact-of-lightning-the-ripples-of-the-aurora-battle-start-deck-hints-at-possible-new-2027-tcg-sets"&gt;任天堂、クリーチャーズ、ゲームフリーク、「マグマの鼓動」「ライトニングの衝撃」「オーロラの波紋」およびバトルスタートデッキを商標登録、2027年新TCGセットの可能性を示唆&lt;/a&gt;（PokeGuardian）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/10/magma-heartbeat-lightning-impact-aurora-ripples-trademarks-filed-for-the-pokemon-tcg"&gt;ポケモンカードTCGで「マグマハートビート」「ライトニングインパクト」「オーロラリップルズ」の商標が出願される&lt;/a&gt;（PokeBeach）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://coinmarketcap.com/academy/article/pokemon-cards-target-dollar21b-market-for-blockchain-tokenization"&gt;ポケモンカードがブロックチェーン・トークン化の対象に、21億ドル市場を狙う&lt;/a&gt;（CoinMarketCap）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.thegamer.com/youll-be-able-to-grade-pokemon-cards-cheaper-soon-as-psa-opens-new-tier/"&gt;約6ヶ月ぶりにPSAがバリュー鑑定サービスを再開&lt;/a&gt;（TheGamer）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/10/infamous-rgb-mew-cards-to-release-in-pocket"&gt;話題のRGB版ミュウカードが「Pocket!」でリリース予定&lt;/a&gt;（PokeBeach）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/10/dual-fusion-all-217-cards-revealed-for-pocket"&gt;「デュアルフュージョン」全217枚のカードが「Pocket!」で公開&lt;/a&gt;（PokeBeach）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pokebeach.com/2026/10/mcdonalds-pokemon-tcg-promotion-starts-november-10th-features-mini-happy-meal-box-toys-and-15-cards"&gt;マクドナルドのポケモンカード販促キャンペーンが11月10日開始、ハッピーセットの限定おもちゃとカード15枚を用意&lt;/a&gt;（PokeBeach）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pokebeach.com/?p=326950"&gt;ドラパルトexをもう一度使用してみた――何か学べたことはあるか？&lt;/a&gt;（PokeBeach）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.pokebeach.com/?p=326488"&gt;レックウザは壊れているのか？デルタレイ構築セットプレビュー&lt;/a&gt;（PokeBeach）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;鑑定・PSA&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://t.co/az14jfFVki"&gt;カードコレクト秋葉原 -CHIKA-@ポケモンカード PSA 買取 旧裏 Pokemon Card&lt;/a&gt;（Howl.Link）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.co/s66QUlO1Hd"&gt;シンソク買取表@ポケカ ワンピ 遊戯王 PSA鑑定品 (@shinsoku_price) on X&lt;/a&gt;（Howl.Link）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.co/hEUqa4WR8l"&gt;口外禁止のSNSには書けない話【ポケカ投資】｜ムンピカ＠ポケカ投資家 PSA ebay 外需分析&lt;/a&gt;（Howl.Link）&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 21:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
