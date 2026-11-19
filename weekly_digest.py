@@ -50,6 +50,17 @@ def md_link_safe(text):
     return html.escape(text).replace("[", "［").replace("]", "］")
 
 
+def md_body_safe(text):
+    """LLMが書いたダイジェスト本文を、Markdownとして安全な形にする
+
+    本文は外部の記事タイトルを引用するため、タイトルに仕込まれた
+    HTMLタグやリンク・画像構文（[..](..) / ![..](..)）がそのまま
+    md.markdown でHTML化されないようにする。見出し（##）・箇条書き（-）・
+    太字（**）など、本文の体裁に使う記法はそのまま残る。
+    """
+    return html.escape(text, quote=False).replace("[", "［").replace("]", "］")
+
+
 def fallback_body(entries):
     """LLMが使えないときの、記事リストだけのダイジェスト"""
     lines = ["## 今週の記事一覧", ""]
@@ -108,8 +119,9 @@ def main():
         print("ℹ️ LLMなしのフォールバック形式で生成します")
         body = fallback_body(entries)
     else:
+        # LLM本文は外部タイトルを引用するので、HTML化される前に無害化する。
         # LLM本文には元記事リンクが含まれないため、リンク付き記事一覧を末尾に付ける
-        body = f"{body}\n\n{fallback_body(entries)}"
+        body = f"{md_body_safe(body)}\n\n{fallback_body(entries)}"
 
     os.makedirs(DIGEST_DIR, exist_ok=True)
     digest_md = f"# 週刊ポケカ高騰ダイジェスト（{week_label}）\n\n{body}\n"

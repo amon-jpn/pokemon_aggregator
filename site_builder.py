@@ -106,7 +106,9 @@ def latest_digest():
     with open(path, encoding="utf-8") as f:
         text = f.read()
     match = re.search(r"## 今週のまとめ\s*\n+(.+?)(?=\n## |\Z)", text, re.DOTALL)
-    summary = match.group(1).strip() if match else None
+    # ダイジェスト本文は weekly_digest.md_body_safe で &amp; 等にエスケープ済みなので、
+    # 元の文字に戻す（表示時に render_digest_box で改めてエスケープする）
+    summary = html.unescape(match.group(1).strip()) if match else None
 
     highlights = None
     hl_path = path.replace(".md", ".highlights.json")
